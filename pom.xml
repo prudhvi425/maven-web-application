@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://54.255.174.111:8081/repository/flipkart-release/</url>
+	      <name>ICICIbank Releases Nexus Repository</name>
+	      <url>http://52.3.251.94:9091/prudhvi/repository/ICICIbank-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.255.174.111:8081/repository/flipkart-snapshot/</url>
+	      <name>ICICIbank Snapshot Nexus Repository </name>
+	      <url>http://52.3.251.94:9091/prudhvi/repository/ICICIbank-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
